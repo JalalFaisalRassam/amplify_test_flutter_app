@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-jalalrassamproject-dev-779bb-authRole",
+      "UnauthRoleArn": "arn:aws:iam::820242933121:role/amplify-jalalrassamproject-dev-779bb-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::820242933121:role/amplify-jalalrassamproject-dev-779bb-authRole",
+      "Region": "me-south-1",
+      "DeploymentBucketName": "amplify-jalalrassamproject-dev-779bb-deployment",
+      "UnauthRoleName": "amplify-jalalrassamproject-dev-779bb-unauthRole",
+      "StackName": "amplify-jalalrassamproject-dev-779bb",
+      "StackId": "arn:aws:cloudformation:me-south-1:820242933121:stack/amplify-jalalrassamproject-dev-779bb/90946a50-dda6-11ef-809f-06528d9b99f9",
+      "AmplifyAppId": "d10ccng0gzm8yo"
+    },
+    "categories": {
+      "auth": {
+        "jalalrassamproject715f33cb": {}
+      },
+      "api": {
+        "jalalrassamproject": {}
+      }
+    }
+  }
+}
